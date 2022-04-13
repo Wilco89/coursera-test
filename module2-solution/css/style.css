@@ -26,6 +26,14 @@ h2{
     border: 2px solid black;
 }
 
+.title{
+    width: 33.33%;
+    float: right !important;
+    border: 2px solid black;
+    margin-top: -2px;
+    margin-right: -2px;
+}
+
 .chicken {
     background-color: moccasin;
 }
@@ -128,12 +136,4 @@ h2{
     .col-md-12{
         width: 100%;
     }
-}
-
-.title{
-    width: 33.33%;
-    float: right;
-    border: 2px solid black;
-    margin-top: -2px;
-    margin-right: -2px;
 }
